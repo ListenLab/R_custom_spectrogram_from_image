@@ -1,5 +1,8 @@
 # Goal: make a sound whose spectrogram reproduces a specified image 
-
+#
+# Matthew Winn
+# August 2020
+#
 # Overview: 
 # 1) make a random-sine tone complex carrier
 #     (the number of carrier components is X)
